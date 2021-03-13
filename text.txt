@@ -1,0 +1,6 @@
+GIT
+
+git add -A  or git add . or git add a_file_name
+
+git remote 
+need to create a git account
