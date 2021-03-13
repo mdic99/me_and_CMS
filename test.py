@@ -12,3 +12,8 @@ def new_script():
     print("This is new print statement")
 
 new_script()
+
+def new_script2():
+    print("New Statement")
+
+new_script2()
