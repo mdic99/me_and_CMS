@@ -7,3 +7,8 @@ print("GitHub account created")
 
 
 print("Pushed to GitHub")
+
+def new_script():
+    print("This is new print statement")
+
+new_script()
